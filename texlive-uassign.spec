@@ -1,6 +1,6 @@
 Name:		texlive-uassign
 Version:	38459
-Release:	1
+Release:	2
 Summary:	Environments and options for typesetting university assignments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uassign
