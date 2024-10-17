@@ -3,7 +3,7 @@ Version:	38459
 Release:	2
 Summary:	Environments and options for typesetting university assignments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uassign
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uassign
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uassign.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uassign.doc.r%{version}.tar.xz
